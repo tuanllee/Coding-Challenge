@@ -8,4 +8,7 @@ https://medium.com/code-to-express/k-means-clustering-for-beginners-using-python
 By using K-means clustering algorithm, I manage to divide the graph into 4 cluster. First, we need to scaled the data around zero mean. Then I draw a graph to determine number of cluster using Elbow method and matplotlib. Finally, I use matplotlib to visualize number of cluster.
 
 
-![Image of Cluster Plot](Coding-challenge.pdf)
+![Image of Cluster Plot](Capture.PNG)
+
+
+(Coding-challenge.pdf)
